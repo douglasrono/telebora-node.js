@@ -1,0 +1,15 @@
+{
+  "name": "telebora-sip-server",
+  "version": "1.0.0",
+  "description": "SIP server implementation using drachtio-srf for Node.js",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "node webserver.js"
+  },
+  "keywords": ["sip", "server", "drachtio", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "drachtio-srf": "^4.5.0"
+  }
+}
